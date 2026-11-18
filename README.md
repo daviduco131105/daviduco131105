@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: daviduco131105gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: este mismo programa lo usé para copiar código para un juego que empecé a desarrollar un verano
-
+- Estoy editando la segunda rama
